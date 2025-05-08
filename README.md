@@ -19,3 +19,5 @@ yarn dev        # using yarn
 pnpm dev        # using pnpm
 # or
 bun dev         # using bun
+
+### Deployed on (https://chatylify.vercel.app/)
