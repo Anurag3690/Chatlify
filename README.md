@@ -1,6 +1,9 @@
-# assistant-ui
 
-This is the [assistant-ui](https://github.com/Yonom/assistant-ui) starter project.
+
+````markdown
+# Assistant UI Starter Project
+
+This is the Assistant UI starter project.
 
 ## 🚀 Getting Started
 
@@ -10,8 +13,13 @@ Create a `.env.local` file in the root of the project and add your OpenAI API ke
 
 ```env
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+````
 
+### 2. Run the Development Server
 
+Choose your preferred package manager:
+
+```bash
 npm run dev     # using npm
 # or
 yarn dev        # using yarn
@@ -19,5 +27,11 @@ yarn dev        # using yarn
 pnpm dev        # using pnpm
 # or
 bun dev         # using bun
+```
 
-### Deployed on (https://chatylify.vercel.app/)
+### 3. Visit the Live Demo
+
+The application is deployed and can be accessed at:
+
+[https://chatylify.vercel.app/](https://chatylify.vercel.app/)
+
